@@ -68,6 +68,6 @@ Le code est organisé en plusieurs classes :
 * Gérer la difficulté du jeu.
 * Ajouter une bande-son et des effets sonores.
 
-## Crédits
+
 
 Ce jeu a été développé par ABED Faiza.
