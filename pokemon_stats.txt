@@ -1,0 +1,3 @@
+nom :1- Salamèche/type:Feu/force:22/Pv:100/victoire:1
+nom :2- Carapuce/type:Eau/force:15/Pv:110/victoire:2
+nom :3- Bulbizarre/type:Plante/force:18/Pv:90/victoire:0
