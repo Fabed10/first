@@ -70,4 +70,4 @@ Le code est organisé en plusieurs classes :
 
 
 
-Ce jeu a été développé par ABED Faiza.
+
