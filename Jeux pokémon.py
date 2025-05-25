@@ -145,8 +145,8 @@ class GameWindow:
         
         # Créer les pokémons 
         self.pokemons = [
-            Pokemon("Salamèche", "S.png", pos_x1, 250, force=22, type_name="Feu", pv=100), 
-            Pokemon("Carapuce", "C.png", pos_x2, 250, force=15, type_name="Eau", pv=110),    
+            Pokemon("Salamèche", "C.png", pos_x1, 250, force=22, type_name="Feu", pv=100), 
+            Pokemon("Carapuce", "S.png", pos_x2, 250, force=15, type_name="Eau", pv=110),    
             Pokemon("Bulbizarre", "B.png", pos_x3, 250, force=18, type_name="Plante", pv=90)   
         ]
         
@@ -317,8 +317,8 @@ class combatWindow:
         
         #  liste de tous les pokémons disponibles 
         self.all_pokemons = [
-            {"name": "Salamèche", "image": "S.png", "force": 22, "type": "Feu", "pv": 100},
-            {"name": "Carapuce", "image": "C.png", "force": 15, "type": "Eau", "pv": 110},
+            {"name": "Salamèche", "image": "C.png", "force": 22, "type": "Feu", "pv": 100},
+            {"name": "Carapuce", "image": "S.png", "force": 15, "type": "Eau", "pv": 110},
             {"name": "Bulbizarre", "image": "B.png", "force": 18, "type": "Plante", "pv": 90}
         ]
         
